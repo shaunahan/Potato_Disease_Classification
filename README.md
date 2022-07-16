@@ -8,4 +8,3 @@ In this project, I built a CNN deep learning model using potato plant images. Th
 **Technology used:** <br>
 Model Building: tensorflow, CNN, data augmentation, tf dataset <br>
 Backend Server and ML Ops: FastAPI <br>
-Model Optimization: Quantization, Tensorflow lite <br>
