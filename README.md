@@ -3,10 +3,9 @@
 Dataset credits: https://www.kaggle.com/arjuntejaswi/plant-village
 
 Farmers every year face economic loss and crop waste due to various diseases in potato plants. 
-In this classification model, I used CNN to build a model. Technology stack for this project will be,
+In this project, I built a CNN deep learning model using potato plant images. The goal of this model is to classify these images as either healthy or early blight or late blight. 
 
+Technology used:
 Model Building: tensorflow, CNN, data augmentation, tf dataset
-Backend Server and ML Ops: tf serving, FastAPI
+Backend Server and ML Ops: FastAPI
 Model Optimization: Quantization, Tensorflow lite
-Frontend: React JS, React Native
-Deployment: GCP (Google cloud platform, GCF (Google cloud functions)
