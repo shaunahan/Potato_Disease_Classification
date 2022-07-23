@@ -1,4 +1,4 @@
-# Potato_Disease_Classification
+# Potato Disease Classification Using Convolution Neural Networks
 
 Dataset credits: https://www.kaggle.com/arjuntejaswi/plant-village
 
